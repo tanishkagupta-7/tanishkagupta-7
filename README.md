@@ -8,8 +8,7 @@
 
 ### 👩🏻‍💻 About Me
 
-- 🏫 Currently in 4th semester at **LNCT University**, Bhopal  
-- ⚡ I’m exploring **AI-based solutions in the medical field**
+- 🏫 Currently in 4th semester at **LNCT University**, Bhopal\
 - 🌱 Learning every day: Python, ML, and a bit of Web Dev!
 - 💖 Love building impactful projects with logic + creativity
 
