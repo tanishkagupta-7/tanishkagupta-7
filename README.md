@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tanishka Gupta!
 
-<!--
-**tanishkagupta-7/tanishkagupta-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AIML) Student at LNCT University  
+💡 Exploring AI-ML, Python Projects & Web Dev  
+🧠 Passionate about AI for healthcare & real-world solutions  
+📌 Currently working on cool ML projects!
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🩺 Breast Cancer Detection (ML)
+> Predicts if a tumor is malignant or benign using ML models (Logistic Regression, Random Forest, etc.)
+- 📊 EDA, visualization & model evaluation
+- ✅ Accuracy: ~98%
+- 📎 [View Project](https://github.com/tanishkagupta-7/Breast-Cancer-Detection-ML)
+
+---
+
+📫 **Let’s Connect:**  
+[Email](tanishkag888@gmail.com) | [GitHub](https://github.com/tanishkagupta-7)
