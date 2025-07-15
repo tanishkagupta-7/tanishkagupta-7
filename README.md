@@ -8,8 +8,8 @@
 
 ### 👩🏻‍💻 About Me
 
-- 🏫 Currently in 4th semester at **LNCT University**, Bhopal\
-- 🌱 Learning every day: Python, ML, and a bit of Web Dev!
+- 🏫 Currently in 5th Semester at **LNCT University**, Bhopal
+- 🌱 Learning every day: Python, ML, DSA with Python and a bit of Web Dev!
 - 💖 Love building impactful projects with logic + creativity
 
 ---
@@ -21,10 +21,10 @@
 📊 Exploratory Data Analysis | 📈 Accuracy: 98%  
 🔗 [View Project on GitHub](https://github.com/tanishkagupta-7/Breast-Cancer-Detection-ML)
 
-#### 🧠 Sentiment Analysis (Coming Soon)
+#### 🧠 Sentiment Analysis
 > Analyzing customer reviews using NLTK & RoBERTa Model
 
-#### 📸 Automatic Number Plate Recognition (Coming Soon)
+#### 📸 Automatic Number Plate Recognition
 > Real-time ANPR using OpenCV & Tesseract
 
 ---
