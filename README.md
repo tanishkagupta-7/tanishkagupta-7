@@ -1,35 +1,20 @@
-<h1 align="center">Hey, I'm Tanishka Gupta 👋</h1>
+<h1 align="center">Hey, I'm Tanishka Gupta </h1>
 
 <p align="center">
-🎓 B.Tech CSE (AIML) | 🧠 AI/ML Enthusiast | 💻 Python Lover | 🌸 Passionate Learner  
+B.Tech CSE (AIML) | AI/ML Enthusiast | Python Lover   
 </p>
 
 ---
 
-### 👩🏻‍💻 About Me
+### About Me
 
-- 🏫 Currently in 5th Semester at **LNCT University**, Bhopal
-- 🌱 Learning every day: Python, ML, DSA with Python and a bit of Web Dev!
-- 💖 Love building impactful projects with logic + creativity
-
----
-
-### 🚀 Projects Showcase
-
-#### 🩺 Breast Cancer Detection using ML
-> Predicts tumor type (Malignant / Benign) using Logistic Regression & Random Forest  
-📊 Exploratory Data Analysis | 📈 Accuracy: 98%  
-🔗 [View Project on GitHub](https://github.com/tanishkagupta-7/Breast-Cancer-Detection-ML)
-
-#### 🧠 Sentiment Analysis
-> Analyzing customer reviews using NLTK & RoBERTa Model
-
-#### 📸 Automatic Number Plate Recognition
-> Real-time ANPR using OpenCV & Tesseract
+- Currently in 5th Semester at **LNCT University**, Bhopal
+- Learning every day: Python, ML, DSA with Python and a bit of Web Dev!
+- Love building impactful projects with logic + creativity
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishkagupta-7&show_icons=true&theme=radical" alt="Tanishka's GitHub stats" height="165"/>
